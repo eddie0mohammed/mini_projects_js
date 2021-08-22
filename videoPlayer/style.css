@@ -43,7 +43,7 @@ video {
 .show-controls {
   width: 100%;
   height: 30%;
-  background: dodgerblue;
+  background: transparent;
   z-index: 2;
   position: absolute;
   bottom: 0;
